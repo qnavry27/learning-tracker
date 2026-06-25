@@ -30,15 +30,12 @@
 - [ ] Something with concurrency/async?
 
 ### DevOps Stuff
-- [ ] Simple Webserver running on Docker with Dockerfile
-- [ ] Multi-App Container? running on Docker
-- [ ] Mutli Stage Dockerfile
-- [ ] Integrate CI/CD into all of this (Check out GitOps, Github Actions, ArgoCD)
-- [ ] Understand DevSecOps and how it works 
-- [ ] Orchestration with Kubernetes
-- [ ] Whats up with Secrets -> Hashicorp Vault / Github Secrets
-- [ ] Run all of this in Cloud -> Terraform?
-- [ ] Project hybrid + cloud
-- [ ] Check out Istio, Cilium, Backstage, OpenTelemetry, Kyverno
+- [ ] Docker (single app)
+- [ ] Docker Compose (multi-app)
+- [ ] CI/CD (GitHub Actions)
+- [ ] Terraform basics
+- [ ] Kubernetes basics
+- [ ] Observability (OpenTelemetry)
+- [ ] Service mesh (Istio/Cilium only after Kubernetes comfort)
 
 
