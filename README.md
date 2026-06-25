@@ -4,6 +4,7 @@
 ###  Rust
 - [ ] Chapter 1 - 3 of the Rust Book
 - [ ] Chapter 4 (Ownership) of the Rust Book
+
 ### Security 
 - [ ] HackTheBox Academy - CBBH - Information Gathering - Web Edition
       
@@ -20,22 +21,29 @@
 - [ ] Metric / Imperial Converter
 - [ ] Calculator with Scientific Stuff
 - [ ] Tic Tac Toe
-- [ ] Simple Chatroom with Client + Server
-- [ ] Do one of the "easier" Projects on Codecrafters (Shell, grep, HTTP)
-- [ ] Key Value Store (maybe with encryption). Be able to read and write to file.
-- [ ] Pomodoro Timer with GUI. Set Time, Pause, longer Pause after X Pomodoros, save stats?
-- [ ] Port Scanner / Host Scanner (ping), like nmap. Maybe UDP?
 - [ ] URL Status Checker
-- [ ] Weather CLI. API Calls, JSON...
-- [ ] Something with concurrency/async?
+- [ ] Weather CLI (API calls, JSON)
+- [ ] Key Value Store (file-based + optional encryption)
+- [ ] Codecrafters “Shell / grep / HTTP” (easy)
+- [ ] Port Scanner / Host Scanner (ping, maybe UDP)
+- [ ] Simple Chatroom with Client + Server
+- [ ] Something with concurrency / async
+- [ ] Pomodoro Timer (GUI + stats + save data)
 
-### DevOps Stuff
+### DevOps / DevSecOps
 - [ ] Docker (single app)
 - [ ] Docker Compose (multi-app)
 - [ ] CI/CD (GitHub Actions)
 - [ ] Terraform basics
 - [ ] Kubernetes basics
+- [ ] Secrets management (GitHub Secrets / Vault)
+- [ ] GitOps (ArgoCD)
+- [ ] Container security basics
+- [ ] DevSecOps fundamentals
+- [ ] Policy as Code (Kyverno / OPA)
 - [ ] Observability (OpenTelemetry)
-- [ ] Service mesh (Istio/Cilium only after Kubernetes comfort)
+- [ ] Logging + metrics + tracing pipeline
+- [ ] Backstage (internal developer platform)
+- [ ] Service mesh (Istio / Cilium)
 
 
