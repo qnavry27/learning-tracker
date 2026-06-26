@@ -10,7 +10,9 @@
       
 ## Projects
 ### Rust 
-- [ ] Rock Paper Scissors - https://github.com/qnavry27/rust-rock-paper-scissors
+- [x] Rock Paper Scissors
+      - [x] For a simple version see: https://github.com/qnavry27/rust-rock-paper-scissors
+      - [x] For advanced, refactored version see: https://github.com/qnavry27/rust-rock-paper-scissors/tree/rock-paper-scissor-v2
 
 ---
 
