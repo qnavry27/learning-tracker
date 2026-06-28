@@ -13,12 +13,12 @@
 - [x] Rock Paper Scissors
 - - [x] For a simple version see: https://github.com/qnavry27/rust-rock-paper-scissors
 - - [x] For advanced, refactored version see: https://github.com/qnavry27/rust-rock-paper-scissors/tree/rock-paper-scissor-v2
+- [x] Magic 8-Ball: https://github.com/qnavry27/Magic8Ball 
 
 ---
 
 ## Ideas
 ### Programming
-- [ ] Magic 8 Ball
 - [ ] Celsius / Kelvin / Fahrenheit Converter
 - [ ] Metric / Imperial Converter
 - [ ] Calculator with Scientific Stuff
