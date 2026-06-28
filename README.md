@@ -2,7 +2,7 @@
 
 ## Learning
 ###  Rust
-- [ ] Chapter 1 - 3 of the Rust Book
+- [x] Chapter 1 - 3 of the Rust Book
 - [ ] Chapter 4 (Ownership) of the Rust Book
 
 ### Security 
