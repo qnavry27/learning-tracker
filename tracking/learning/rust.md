@@ -1,5 +1,5 @@
 # Learning Rust
-## Rust - The Rust Programmin Language Book (https://doc.rust-lang.org/book/)
+## Rust - The Rust Programming Language Book (https://doc.rust-lang.org/book/)
 ### Current
 
 - [ ] Chapter 5: Using Structs to Structure Related Data
