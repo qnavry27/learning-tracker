@@ -2,18 +2,17 @@
 ## Rust - The Rust Programming Language Book (https://doc.rust-lang.org/book/)
 ### Current
 
-- [ ] Chapter 5: Using Structs to Structure Related Data
 - [ ] Chapter 6: Enums and Pattern Matching
+- [ ] Chapter 7: Packages, Crates, and Modules
 
 ### Up Next
-- [ ] Chapter 7: Packages, Crates, and Modules
-- [ ] Chapter 8: Common Collectoin
+- [ ] Chapter 8: Common Collection
 - [ ] Chapter 9: Error Handling
 - [ ] Chapter 10: Generic Types, Traits, and Lifetimes
 - [ ] Chapter 11: Writing Automated Tests
 - [ ] Chapter 12: An I/O Project: Building a Command Line Program
 - [ ] Chapter 13: Function Language Features: Iterators and Closures
-- [ ] Chapter 14: more about Cargo and Crates.io
+- [ ] Chapter 14: More about Cargo and Crates.io
 - [ ] Chapter 15: Smart Pointers
 - [ ] Chapter 16: Fearless Concurrency
 - [ ] Chapter 17: Fundamentals of Asynchronous Programming: Async, Await, Futures, and Streams
@@ -29,4 +28,5 @@
 
 - [x] Chapter 1 - 3 of the Rust Book
 - [x] Chapter 4: Understanding Ownership
+- [x] Chapter 5: Using Structs to Structure Related Data
 </details>
