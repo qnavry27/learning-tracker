@@ -7,4 +7,4 @@
 * **Magic 8-Ball**
   - [x] Repository: [Magic8Ball](https://github.com/qnavry27/Magic8Ball)
 * **Tic-Tac-Toe**
-- [ ] Repo: [Tic-Tac-Toe](https://github.com/qnavry27/TicTacToe)
+  - [ ] Repo: [Tic-Tac-Toe](https://github.com/qnavry27/TicTacToe)
