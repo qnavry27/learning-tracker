@@ -1,51 +1,17 @@
 # Learning Tracker / Projects
 
-## Learning
-###  Rust
-- [x] Chapter 1 - 3 of the Rust Book
-- [ ] Chapter 4 (Ownership) of the Rust Book
+## Quick Links
+- [Learning Tracker](tracking/learning.md) - What I am currently studying.
+- [Projects](tracking/projects.md) - Things I have built or a am actively building
+- [Idea Backlog](tracking/ideas.md) - Future project inspirations
 
-### Security 
-- [ ] HackTheBox Academy - CBBH - Information Gathering - Web Edition
-      
-## Projects
-### Rust 
-- [x] Rock Paper Scissors
-- - [x] For a simple version see: https://github.com/qnavry27/rust-rock-paper-scissors
-- - [x] For advanced, refactored version see: https://github.com/qnavry27/rust-rock-paper-scissors/tree/rock-paper-scissor-v2
-- [x] Magic 8-Ball: https://github.com/qnavry27/Magic8Ball 
+## Current Focus:
+- Rust: Check out Chapter 4 of the book & continue Tic Tac Toe
+- Security: Finish Information Gathering - Web Edition Module on HackTheBox Academy
+- Cloud: Continue with AZ-104 on Kodekloud & start AZ-104 track on learn.microsoft.com
+- DevOps: Continue with Docker Course on Kodekloud
 
----
 
-## Ideas
-### Programming
-- [ ] Celsius / Kelvin / Fahrenheit Converter
-- [ ] Metric / Imperial Converter
-- [ ] Calculator with Scientific Stuff
-- [ ] Tic Tac Toe
-- [ ] URL Status Checker
-- [ ] Weather CLI (API calls, JSON)
-- [ ] Key Value Store (file-based + optional encryption)
-- [ ] Codecrafters “Shell / grep / HTTP” (easy)
-- [ ] Port Scanner / Host Scanner (ping, maybe UDP)
-- [ ] Simple Chatroom with Client + Server
-- [ ] Something with concurrency / async
-- [ ] Pomodoro Timer (GUI + stats + save data)
 
-### DevOps / DevSecOps
-- [ ] Docker (single app)
-- [ ] Docker Compose (multi-app)
-- [ ] CI/CD (GitHub Actions)
-- [ ] Terraform basics
-- [ ] Kubernetes basics
-- [ ] Secrets management (GitHub Secrets / Vault)
-- [ ] GitOps (ArgoCD)
-- [ ] Container security basics
-- [ ] DevSecOps fundamentals
-- [ ] Policy as Code (Kyverno / OPA)
-- [ ] Observability (OpenTelemetry)
-- [ ] Logging + metrics + tracing pipeline
-- [ ] Backstage (internal developer platform)
-- [ ] Service mesh (Istio / Cilium)
 
 
