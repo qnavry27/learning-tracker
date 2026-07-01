@@ -1,11 +1,11 @@
 # Learning Rust
 ## Rust - The Rust Programmin Language Book (https://doc.rust-lang.org/book/)
 ### Current
-- [ ] Chapter 4 (Ownership) of the Rust Book
+
 - [ ] Chapter 5: Using Structs to Structure Related Data
+- [ ] Chapter 6: Enums and Pattern Matching
 
 ### Up Next
-- [ ] Chapter 6: Enums and Pattern Matching
 - [ ] Chapter 7: Packages, Crates, and Modules
 - [ ] Chapter 8: Common Collectoin
 - [ ] Chapter 9: Error Handling
@@ -28,4 +28,5 @@
 <summary>Show Completed</summary>
 
 - [x] Chapter 1 - 3 of the Rust Book
+- [x] Chapter 4: Understanding Ownership
 </details>
